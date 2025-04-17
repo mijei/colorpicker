@@ -3,3 +3,7 @@ My google extension ive made to get colors from other websites (rgba and hex), i
 How to Install?
 
 In Chrome, go to the three dots in the top right side, click and go to Extensions > Manage Extensions
+
+In the "Manage Extensions" page, activate Developer Mode, and then click "Load unpacked", now you select the folder "Xtension" and press "select folder" (or something like that).
+
+now you activate it and voilà, the Xtension works!
