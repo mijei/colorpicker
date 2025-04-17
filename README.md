@@ -4,6 +4,6 @@ How to Install?
 
 In Chrome, go to the three dots in the top right side, click and go to Extensions > Manage Extensions
 
-In the "Manage Extensions" page, activate Developer Mode, and then click "Load unpacked", now you select the folder "Xtension" and press "select folder" (or something like that).
+In the "Manage Extensions" page, activate Developer Mode, and then click "Load unpacked", now you select the "Xtension" folder and press "select folder" (or something like that).
 
 now you activate it and voilà, the Xtension works!
